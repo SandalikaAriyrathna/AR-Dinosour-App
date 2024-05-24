@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 94d6f06215bb6d645ac62438d22cb5df
+  - enabled: 1
+    path: Assets/Scenes/Dinosaur 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Dinosaur 2.unity
+    guid: 2df5eacf3f2058d47ae55084ba35451f
+  - enabled: 1
+    path: Assets/Scenes/Dinosaur 3.unity
+    guid: 0adc17bfbebe3ae41a1b75f453acf2df
+  m_configObjects: {}
